@@ -1,22 +1,23 @@
-Welcome to Lumache's documentation!
-===================================
+Mastering the Core Teachings of the Buddha
+==========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is a Work-in-progress of the Tamil translation of the book **Mastering the Core Teachings of the Buddha**
+by Daniel Ingram. `Visit here to read the original book in English<https://www.mctb.org/mctb2>`_ 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+* All the credits, copyrights and attributions of this work, related
+translations, etc belong to https://www.integrateddaniel.info/[Daniel Ingram]
+* Follow https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.integrateddaniel.info%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Edanielmingram&region=follow_link&screen_name=danielmingram[Daniel Ingram on Twitter]
 
 .. note::
 
-   This project is under active development.
+   This is still a work in progress.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   credits
+   preface
+   dedication
+   foreword
