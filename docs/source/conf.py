@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MCTB2'
+copyright = '2018, Daniel M. Ingram'
+author = 'Daniel M. Ingram'
 
 release = '0.1'
 version = '0.1.0'
